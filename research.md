@@ -4,4 +4,4 @@ title: Group Members
 permalink: /people/
 ---
 
-Include information about current and past group members here. 
+I conduct research on the biogeochemistry of mesoscale eddies in the Southern Ocean.
