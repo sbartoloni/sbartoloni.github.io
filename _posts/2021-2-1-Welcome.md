@@ -2,7 +2,8 @@
 layout: post
 title: Welcome!
 ---
-<img src="{{site.baseurl}}/images/headshot.png" alt="headshot" width="100" 
+
+![Me]({{site.baseurl}}/images/headshot.png)
 
 <img src="myimage.jpg" align="right">
 
