@@ -2,6 +2,7 @@
 layout: post
 title: Welcome!
 ---
+<img src="{{site.baseurl}}/images/headshot.png" alt="Picture of me" width="400" style="float: right; margin-top: 0px; margin-right: 10px" />
 
 My name is Sarah Bartoloni and I am currently a PhD student at the University of South Florida in Dr. Nancy William's lab. My research is focused on the biogeochemistry of mesoscale eddies in the Southern Ocean. I am particularly interested in how eddies trap and transport carbon in frontal regions. 
 
