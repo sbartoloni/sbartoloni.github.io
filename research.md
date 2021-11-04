@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Group Members
-permalink: /people/
+title: Research
+permalink: /research/
 ---
 
 I conduct research on the biogeochemistry of mesoscale eddies in the Southern Ocean.
